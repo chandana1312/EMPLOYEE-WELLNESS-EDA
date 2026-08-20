@@ -57,7 +57,7 @@ The analysis includes data preprocessing, univariate analysis, bivariate analysi
 ## 📁 Project Files
 
 - `Employee Wellness EDA.ipynb` → Complete analysis and visualizations
-- `employee_wellness_cleaned.csv` → Cleaned dataset
+- `employee_wellness_dataset.csv` → dataset
 
 ---
 
